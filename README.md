@@ -1,7 +1,7 @@
 # Pollar
 
-![pollar_logo](https://user-images.githubusercontent.com/96093461/155881013-6347e4ac-2113-4d68-bea8-ce1f8b7c925b.png)
-
+<img src="https://user-images.githubusercontent.com/96093461/155881013-6347e4ac-2113-4d68-bea8-ce1f8b7c925b.png" alt="logo" width="200"/>
+<img src="https://user-images.githubusercontent.com/96093461/155881108-df92fc3b-cb2a-4594-aaa2-093f3c1d7104.png" alt="logo" width="200"/>
 
 **Poll Whatever, Anywhere 폴라! 몰라? 골라!**
 
